@@ -8,4 +8,4 @@ Repositorio para la práctica de Git y GitHub de la asignatura DEAW.
 | Nombre  	| GITHUB 			    |
 |---------------|-----------------------------------|
 | Ian Tauzy  	| https://github.com/SeaSmokeDev     |
-| Miguel Angel Justiniano 	| https://github.com/14-majs |  
+| Miguel Angel Justiniano 	| https://github.com/MiguelAngelJUSSAL |  
